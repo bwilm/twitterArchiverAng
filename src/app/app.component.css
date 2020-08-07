@@ -1,0 +1,14 @@
+mat-toolbar{
+    display: flex;
+    /* background-color: #5DADE2; */
+    justify-content: flex-end;
+    font-size: 25px;
+    color: white;
+    background-color: #5DADE2;
+    font-family: 'Oxygen', sans-serif;
+}
+
+i{
+    padding-right: 10px;
+    padding-top: 4px;
+}
